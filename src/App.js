@@ -101,19 +101,19 @@ function App() {
               <p>
               <br/>
                 <label class="radio-inline">
-                Bad <br/>
+                Bad &nbsp;
                   <input type="radio" name="experience" id="radio_experience" value="bad" />
                   {/* <i class="fa fa-frown-o fa-2x" aria-hidden="true"></i> Bad */}
-                </label> &nbsp;
+                </label> 
 
                 <label class="radio-inline">
-                Just OK<br/>
+                Just OK &nbsp;
                   <input type="radio" name="experience" id="radio_experience" value="average" />
                   {/* <i class="fa fa-meh-o fa-2x" aria-hidden="true"></i> Just OK */}
                 </label> &nbsp;
 
                 <label class="radio-inline">
-                Good<br/>
+                Good &nbsp;
                   <input type="radio" name="experience" id="radio_experience" value="good" />
                   {/* <i class="fa fa-smile-o fa-2x" aria-hidden="true"></i> Good */}
                 </label>
