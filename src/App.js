@@ -103,21 +103,21 @@ function App() {
                 <label class="radio-inline">
                 
                   <input type="radio" name="experience" id="radio_experience" value="bad" />
-                  &nbsp Bad
+                   Bad
                   {/* <i class="fa fa-frown-o fa-2x" aria-hidden="true"></i> Bad */}
                 
                 </label> <br/>
                 <label class="radio-inline">
                  
                   <input type="radio" name="experience" id="radio_experience" value="average" />
-                  &nbsp Just OK
+                   Just OK
                   {/* <i class="fa fa-meh-o fa-2x" aria-hidden="true"></i> Just OK */}
                 </label> <br/>
 
                 <label class="radio-inline">
                  
                   <input type="radio" name="experience" id="radio_experience" value="good" />
-                  &nbsp Good
+                   Good
                   {/* <i class="fa fa-smile-o fa-2x" aria-hidden="true"></i> Good */}
                 </label>
               </p>
