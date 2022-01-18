@@ -89,7 +89,7 @@ function App() {
 
     <div class="row">
       <div class="col-md-6 col-md-offset-3">
-        <h2>Feedback</h2>
+        <h1>Feedback</h1>
         <p>
           Please provide your feedback below:
         </p>
@@ -98,19 +98,20 @@ function App() {
             <div class="col-sm-12 form-group">
               <label>How do you rate your overall experience?</label>
               <p>
+              <br/>
                 <label class="radio-inline">
                   <input type="radio" name="experience" id="radio_experience" value="bad" />
-                  <i class="fa fa-frown-o fa-2x" aria-hidden="true"></i> Bad
+                  {/* <i class="fa fa-frown-o fa-2x" aria-hidden="true"></i> Bad */}
                 </label>
 
                 <label class="radio-inline">
                   <input type="radio" name="experience" id="radio_experience" value="average" />
-                  <i class="fa fa-meh-o fa-2x" aria-hidden="true"></i> Just OK
+                  {/* <i class="fa fa-meh-o fa-2x" aria-hidden="true"></i> Just OK */}
                 </label>
 
                 <label class="radio-inline">
                   <input type="radio" name="experience" id="radio_experience" value="good" />
-                  <i class="fa fa-smile-o fa-2x" aria-hidden="true"></i> Good
+                  {/* <i class="fa fa-smile-o fa-2x" aria-hidden="true"></i> Good */}
                 </label>
               </p>
             </div>
