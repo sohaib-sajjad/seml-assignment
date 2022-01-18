@@ -90,6 +90,7 @@ function App() {
     <div class="row">
       <div class="col-md-6 col-md-offset-3">
         <h1>Feedback</h1>
+        <br/><br/>
         <p>
           Please provide your feedback below:
         </p>
