@@ -93,7 +93,7 @@ function App() {
         <p>
             Please provide your feedback below:
         </p>
-        <form role="form" method="post" id="reused_form">
+        <Form role="form" method="post" id="reused_form">
             <div class="row">
                 <div class="col-sm-12 form-group">
                 <label>How do you rate your overall experience?</label>
@@ -144,7 +144,7 @@ function App() {
                 </div>
             </div>
 
-        </form>
+        </Form>
         <div id="success_message" style={{width:"100%", height:"100%", display:"none"}} >
             <h3>Posted your feedback successfully!</h3>
         </div>
