@@ -104,13 +104,13 @@ function App() {
                 Bad &nbsp;
                   <input type="radio" name="experience" id="radio_experience" value="bad" />
                   {/* <i class="fa fa-frown-o fa-2x" aria-hidden="true"></i> Bad */}
-                </label> 
+                </label> <br/>
 
                 <label class="radio-inline">
                 Just OK &nbsp;
                   <input type="radio" name="experience" id="radio_experience" value="average" />
                   {/* <i class="fa fa-meh-o fa-2x" aria-hidden="true"></i> Just OK */}
-                </label> &nbsp;
+                </label> <br/>
 
                 <label class="radio-inline">
                 Good &nbsp;
